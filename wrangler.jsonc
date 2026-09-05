@@ -12,7 +12,7 @@
 	},
 	"kv_namespaces": [
 		{
-			"binding": "sb","id": "bd0b889fe704441783e1cba9144442bd"
+			"binding": "KV","id": "bd0b889fe704441783e1cba9144442bd"
 		}
 	],
 	"triggers": {
